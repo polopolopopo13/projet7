@@ -1,0 +1,37 @@
+This repository concern a bank analysis, about intergenerationnal incomes.
+
+FIle tree:
+----data
+--------GDIM_2018.csv
+--------GINI_wirkd_bank_1969_2017.csv
+--------pop1960_2017_workbank.csv
+--------world_income_distribution.csv
+
+----graphiques
+--------9 fichiers .png
+----geo : files to map data (geopandas)
+----projet_7.odp
+----projet5=_7.pdf
+----README
+----code_projet7.ipynb
+
+
+Librarys required:
+pandas
+numpy
+scipy
+matplotlib 
+sklearn
+collections
+IPython.display
+itertools
+geopandas
+statsmodels
+random
+mpl_toolkits
+os
+cycler
+
+
+Just run 'code_projet7.ipynb' it with python3
+
